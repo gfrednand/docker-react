@@ -15,3 +15,4 @@ deploy:
   project: "docker-react"
   on:
     branch: master
+
