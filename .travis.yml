@@ -12,7 +12,7 @@ deploy:
   provider: firebase
   token: 
     secure: "ROFEu7GJrVc05f9nMjlsLrj+wc8yAshktM4lkCEFG7zG1xnVQcA1sYYnrjXhiOxydxLLlii98IyVCOmHfzglibvOGa8mZE6hozWj9jbmaDPa4Bu50kEji1ixe7LZdXGvknIhjMiWYSJ+mw/jESZp0jEUDNspXc6sWDgsuKDKO3gfEu6UYG3sD1xqTIPtUIBT3D5I9CR2uwtzULdWbr257FYuWAW9AkNfnNBM5CKkbUXJa+WYlcjOXQN+gBER+Qwlv6KwuDIb2YWlpKobOc6mgXpG9f+/r6D06c8DAPbOJ2lJ/+xVSzgSpaf09KHZrqxr/I4KpiprQsBqo2lUQvzGco50szN+SZNapPhCGx+B5GkgUbaKqD3QX/3H/utX2fIEKzIeWj1cGNRw/EGQI3RN5jo0EbaS2S5RVLAv8ls9SxN8L3foPZYZ/8mbAa9NR5hISH2s9MhMA9N3W5sgNszmcI7C8BIxn5vCDqkjSjwC0xJhP3MAyyA0KFEOHQdEJmXvlR2FW0vR9L658cFbnYGaWcjw7NlPTIW7srL49n4ITKgrYZ6icJbEUVXdyYWhS5uYs0W1Ao1uNsCgN+Msc19Sw2U+2Xyhxx9hA9y8RpqiHrDQZiDG96GuRLOcUVkk3oQdKPq2nQb39+7nlcObwL12n/hPCEPTKMkoOk+Sda/S2nk="
-  project: "docker-react"
+  project: "chamistore-7e9ff"
   on:
     branch: master
   skip_cleanup: true
