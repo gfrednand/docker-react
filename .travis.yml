@@ -15,4 +15,5 @@ deploy:
   project: "docker-react"
   on:
     branch: master
+  skip_cleanup: true
 
